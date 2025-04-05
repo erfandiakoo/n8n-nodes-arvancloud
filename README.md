@@ -22,8 +22,3 @@ mkdir custom
   "preinstall": "npx only-allow pnpm",
 }
 ```
-
-
-```sh
-apikey fd0ce667-83be-5626-b70a-96bfc902b5af
-```
