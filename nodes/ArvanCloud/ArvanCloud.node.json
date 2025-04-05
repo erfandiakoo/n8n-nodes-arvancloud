@@ -1,0 +1,13 @@
+{
+	"node": "n8n-nodes-base.ArvanCloud",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["CDN", "Cloud", "SAAS", "PAAS"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://www.arvancloud.ir/fa/dev/api"
+			}
+		]
+	}
+}
